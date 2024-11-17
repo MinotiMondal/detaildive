@@ -81,7 +81,7 @@ lib/
 |______controllers
 
 
-|
+
 
 
 |          |______post_controller.dart
@@ -93,16 +93,12 @@ lib/
 |          |______timer_controller.dart
 
 
-|
 
 
 |________views
 
 
-|           |______post_list_view.dart
-
-
-|        
+|           |______post_list_vie
 
 
 |           |______post_detail_view.dart
